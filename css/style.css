@@ -1,0 +1,42 @@
+p,
+button {
+    font-family: "Tinos", serif;
+}
+
+
+
+.cover {
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../images/light-bulb-or-lamp-with-dark-background-vector.jpg);
+    background-size: cover;
+}
+
+p {
+    margin-block: 50px;
+    font-size: 35px;
+}
+
+h1 {
+    font-size: 80px;
+    margin-block: 53.6px;
+    font-family: "Sour Gummy", sans-serif;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: green;
+    font-size:25px;
+    transition: 0.5s;
+}
+
+button:hover {
+    background-color: blue;
+}
+#message{
+    font-style: oblique;
+    border-radius: 10px;
+    width: 75%;
+    margin-inline:auto;
+    color: green;
+    
+}
